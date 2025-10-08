@@ -1,0 +1,33 @@
+LMB + alt --> pivot camera
+MMB + alt --> panning camera
+RMB + alt --> zoom camera
+
+w --> translate
+e --> rotate
+r --> scale
+
+f --> focus camera
+h --> hide (ocultar)
+
+ctrl + d --> duplicate (object mode (green))
+ctrl + g --> group
+4 --> wireframe
+5 --> shaded
+6 --> textured
+7 --> illuminated
+space --> persp/ortographic
+
+F09 --> vertex mode
+F10 --> edge mode
+F11 --> face mode
+F07 --> MULTI mode
+F08 --> toggle object/component mode
+
+quad --> cara de 4 lados
+tris --> triángulos
+n-gon --> caras de más de 4 lados
+
+j --> hold j to rotate 15º
+> --> grow selection
+< --> shrink selection
+
